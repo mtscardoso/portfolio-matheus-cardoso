@@ -43,10 +43,13 @@ Atualmente cursando o 2º período de Ciência da Computação na Unicid - Unive
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Corrida do Prompt** | Projeto com o objetivo de dominar a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo possível. | [Ver Projeto](./Projeto_Corrida_do_Prompt/) |
-| **Laboratório de Classificação Visual** | Utilizando o navegador para acessar o Teachable Machine (Google) realizei um treinamento de um modelo de imagem simples | [Ver Projeto](./Projeto_Laboratorio_de_Classificacao_Visual/) |
-| **Batalha de Modelos** | Um estudo técnico comparativo que utiliza engenharia de prompt estruturado em XML para avaliar a precisão e a eficiência de diversos modelos de IA na geração de interfaces web. | [Ver Projeto](./Projeto_Batalha_de_Modelos/) |
-| **Engenharia Reversa** | Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura.| [Ver Projeto](./Projeto_Qryo/) |
+| **Batalha de Modelos** | Um estudo técnico comparativo que utiliza engenharia de prompt estruturado em XML para avaliar a precisão e a eficiência de diversos modelos de IA na geração de interfaces web. | [Ver Projeto](./projeto-batalha-de-modelos/) |
+| **Corrida do Prompt** | Projeto com o objetivo de dominar a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo possível. | [Ver Projeto](./projeto-corrida-do-prompt/) |
+| **Laboratório de Classificação Visual** | Utilizando o navegador para acessar o Teachable Machine (Google) realizei um treinamento de um modelo de imagem simples | [Ver Projeto](./projeto-laboratório-de-classificação-visual/) |
+| **Engenharia Reversa** | Engenharia reversa de webapps: Reconstruindo sites funcionais através de análise de interface e IA. | [Ver Projeto](./projeto-qr-code-styling/) |
+| **Do Clone ao Produto Mínimo Viável (MVP+)** | Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura.| [Ver Projeto](./projeto-qryo) |
+| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** |Criação de solução Android para RPG de mesa via Manus AI com comunicações Jitsi Meet.| [Ver Projeto](./projeto-rpg-meet-app) |
+
  
 ---
  
