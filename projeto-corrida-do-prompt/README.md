@@ -1,3 +1,4 @@
+SM1 - A Corrida do Prompt
 # 🎨 Corrida do Prompt: Arte Barroca e Oratória Pirata
 
 ## 📝 Descrição do Projeto
