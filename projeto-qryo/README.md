@@ -1,3 +1,4 @@
+SM5 - Do Clone ao Produto Mínimo Viável (MVP+)
 # 🎨 Qryo: Identidade Visual em cada Pixel
 
 ## 📝 Descrição do Projeto
