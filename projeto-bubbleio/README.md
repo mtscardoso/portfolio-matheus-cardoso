@@ -1,3 +1,4 @@
+SM6 - Engenharia de Software e IA com Bubble.io
 # 🐋 OrçaPro — Budget Workspace
 
 ## 📝 Descrição do Projeto
